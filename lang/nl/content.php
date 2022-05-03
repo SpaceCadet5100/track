@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'warning' => 'Minimaal 1 dag van te voren voor 15.00 uur.',
+    'pickupChange' => 'wijzigen ophalen',
+    'Srteetname' => 'straat name',
+    'housenumber' => 'huis nummer',
+    'postalcode' => 'post code',
+    'City' => 'stad',
+    'Date' => 'datum',
+    'country' => 'land',
+    'pickUpTime' => 'Ophaal tijd',
+    'Sender' => 'afzender',
+    'Sharablelink' => 'Deelbare link',
+    'SenderAddresss' => 'afzender adres',
+    'RecipientAddresss' => 'ontvanger adres',
+    'Nopackagesfround' => 'geen pakketjes gevonden',
+    'Requestpickup' => 'aanvraag ophalen',
+    'Selectall' => 'alles selecteren',
+    'Package' => 'pakket',
+    'pickupschedulesystem' => 'ophaalschema systeem',
+    'Incomingpackages' => 'inkomende pakketten',
+    'Recipientfeedback' => 'ontvanger feedback',
+    'Outgoingpackages' => 'Verzonden pakketten',
+];
